@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: privetstvennyy-paket.github.io
+Sitemap: https://privetstvennyy-paket.github.io/sitemap.xml
